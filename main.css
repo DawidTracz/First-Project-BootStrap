@@ -13,3 +13,38 @@
 	margin-right: 0;
 	font-size:60px;
 }
+
+.container3{
+
+padding-top: 50px;
+
+	text-align: center;
+	background-color: #ffff99;
+	font-size:20px;
+	text-align: justify;
+	
+
+}
+
+.progress{
+	
+	margin-left: 40px;
+	margin-right: 40px;
+margin-top: 60px;
+ 
+}
+form{
+font-size: 20px;
+
+text-align: center;
+	margin-left: 40px;
+	margin-right: 40px;
+
+
+
+}
+
+.container4{
+
+	text-align: center;
+}
