@@ -2,3 +2,14 @@
 
 	margin-bottom: 0;
 }
+
+
+.container2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	background-color: red;
+	margin-left: 0;
+	margin-right: 0;
+	font-size:60px;
+}
